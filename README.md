@@ -20,9 +20,9 @@ O limiar de cada modelo é escolhido pela maximização de **F2 na validação**
 
 | Modelo | Limiar | Precisão fraude | Recall fraude | F1 fraude |
 |---|---:|---:|---:|---:|
-| Regressão Logística | A preencher | A preencher | A preencher | A preencher |
-| Random Forest | A preencher | A preencher | A preencher | A preencher |
-| XGBoost | A preencher | A preencher | A preencher | A preencher |
+| Regressão Logística | 0.9996	| 0.6457	 | 0.8367 | 0.7289	 |
+| Random Forest | 	0.2074	 | 0.6418 | 0.8776 | 0.7414 |
+| XGBoost | 0.8561	 | 0.7830 | 0.8469 | 0.8137 |
 
 ## Explicabilidade e diferenças do roteiro
 
